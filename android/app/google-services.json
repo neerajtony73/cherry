@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1068336882583",
+    "project_id": "cherry-bf613",
+    "storage_bucket": "cherry-bf613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068336882583:android:964d1bdea4bc7a314f9ad2",
+        "android_client_info": {
+          "package_name": "com.example.cherry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068336882583-ot7bshquqpt16prbmq4br7aguh6aotlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTHQ7ttF6vjpFW6_dZ4Z0L7AecpxLVTYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068336882583-ot7bshquqpt16prbmq4br7aguh6aotlf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068336882583-j0v4ie9rk48192eb9jv4nbrhpjm60uh7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cherry"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
